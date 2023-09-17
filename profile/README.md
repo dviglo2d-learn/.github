@@ -1,4 +1,4 @@
-# Обучающие материалы по [игровому движку Dviglo 2D](https://github.com/dviglo2d/dviglo2d)
+# Обучающие материалы по [игровому движку Dviglo2D](https://github.com/dviglo2d/dviglo2d)
 
 ## Примеры
 
