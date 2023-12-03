@@ -2,4 +2,5 @@
 
 ## Примеры
 
-[Шаблон приложения / Минимальное приложение](https://github.com/dviglo2d-learn/minimal_app)
+[Шаблон приложения / Минимальное приложение](https://github.com/dviglo2d-learn/minimal_app)<br>
+[Небольшие игры](https://github.com/dviglo2d-learn/mini_games)
